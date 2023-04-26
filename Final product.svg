@@ -39,18 +39,6 @@
        d="m 507.62924,43.547421 a 0.97662085,0.97661805 0 0 1 -0.97095,0.976601 0.97662085,0.97661805 0 0 1 -0.98223,-0.965258 0.97662085,0.97661805 0 0 1 0.95954,-0.987813 0.97662085,0.97661805 0 0 1 0.99338,0.953784 l -0.97636,0.02269 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path2805"
-       sodipodi:type="arc"
-       sodipodi:cx="506.65262"
-       sodipodi:cy="49.897427"
-       sodipodi:rx="0.97662085"
-       sodipodi:ry="0.97661805"
-       sodipodi:start="0"
-       sodipodi:end="6.2599548"
-       sodipodi:arc-type="slice"
-       d="m 507.62924,49.897427 a 0.97662085,0.97661805 0 0 1 -0.97095,0.976601 0.97662085,0.97661805 0 0 1 -0.98223,-0.965258 0.97662085,0.97661805 0 0 1 0.95954,-0.987813 0.97662085,0.97661805 0 0 1 0.99338,0.953784 l -0.97636,0.02269 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path2807"
        sodipodi:type="arc"
        sodipodi:cx="506.65262"
@@ -61,30 +49,6 @@
        sodipodi:end="6.2599548"
        sodipodi:arc-type="slice"
        d="m 507.62924,57.834934 a 0.97662085,0.97661805 0 0 1 -0.97095,0.976602 0.97662085,0.97661805 0 0 1 -0.98223,-0.965258 0.97662085,0.97661805 0 0 1 0.95954,-0.987814 0.97662085,0.97661805 0 0 1 0.99338,0.953785 l -0.97636,0.02268 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path2809"
-       sodipodi:type="arc"
-       sodipodi:cx="506.65262"
-       sodipodi:cy="61.539101"
-       sodipodi:rx="0.97662085"
-       sodipodi:ry="0.97661805"
-       sodipodi:start="0"
-       sodipodi:end="6.2599548"
-       sodipodi:arc-type="slice"
-       d="m 507.62924,61.539101 a 0.97662085,0.97661805 0 0 1 -0.97095,0.976601 0.97662085,0.97661805 0 0 1 -0.98223,-0.965258 0.97662085,0.97661805 0 0 1 0.95954,-0.987813 0.97662085,0.97661805 0 0 1 0.99338,0.953784 l -0.97636,0.02269 z" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path2811"
-       sodipodi:type="arc"
-       sodipodi:cx="506.65262"
-       sodipodi:cy="68.418274"
-       sodipodi:rx="0.97662085"
-       sodipodi:ry="0.97661805"
-       sodipodi:start="0"
-       sodipodi:end="6.2599548"
-       sodipodi:arc-type="slice"
-       d="m 507.62924,68.418274 a 0.97662085,0.97661805 0 0 1 -0.97095,0.976602 0.97662085,0.97661805 0 0 1 -0.98223,-0.965259 0.97662085,0.97661805 0 0 1 0.95954,-0.987813 0.97662085,0.97661805 0 0 1 0.99338,0.953785 l -0.97636,0.02268 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path2813"
@@ -99,16 +63,30 @@
        d="m 507.62924,74.76828 a 0.97662008,0.97661984 0 0 1 -0.97095,0.976603 0.97662008,0.97661984 0 0 1 -0.98223,-0.96526 0.97662008,0.97661984 0 0 1 0.95954,-0.987815 0.97662008,0.97661984 0 0 1 0.99337,0.953787 l -0.97635,0.02269 z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path2815"
+       id="path955"
        sodipodi:type="arc"
-       sodipodi:cx="506.65262"
-       sodipodi:cy="82.705788"
+       sodipodi:cx="656.5437"
+       sodipodi:cy="207.61024"
        sodipodi:rx="0.97662085"
        sodipodi:ry="0.97661805"
        sodipodi:start="0"
        sodipodi:end="6.2599548"
        sodipodi:arc-type="slice"
-       d="m 507.62924,82.705788 a 0.97662085,0.97661805 0 0 1 -0.97095,0.976601 0.97662085,0.97661805 0 0 1 -0.98223,-0.965258 0.97662085,0.97661805 0 0 1 0.95954,-0.987813 0.97662085,0.97661805 0 0 1 0.99338,0.953784 l -0.97636,0.02269 z" />
+       d="m 657.52032,207.61024 a 0.97662085,0.97661805 0 0 1 -0.97095,0.97661 0.97662085,0.97661805 0 0 1 -0.98222,-0.96526 0.97662085,0.97661805 0 0 1 0.95954,-0.98782 0.97662085,0.97661805 0 0 1 0.99337,0.95379 l -0.97636,0.0227 z"
+       transform="rotate(-15.472517)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path959"
+       sodipodi:type="arc"
+       sodipodi:cx="641.74622"
+       sodipodi:cy="207.46907"
+       sodipodi:rx="0.97662085"
+       sodipodi:ry="0.97661805"
+       sodipodi:start="0"
+       sodipodi:end="6.2599548"
+       sodipodi:arc-type="slice"
+       d="m 642.72284,207.46907 a 0.97662085,0.97661805 0 0 1 -0.97095,0.9766 0.97662085,0.97661805 0 0 1 -0.98223,-0.96526 0.97662085,0.97661805 0 0 1 0.95954,-0.98781 0.97662085,0.97661805 0 0 1 0.99337,0.95379 l -0.97635,0.0227 z"
+       transform="rotate(-15.472517)" />
   </g>
   <g
      id="g5275"
@@ -253,14 +231,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.41"
-     inkscape:cx="587.94326"
-     inkscape:cy="101.77305"
+     inkscape:cx="293.61702"
+     inkscape:cy="272.69504"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg45" />
+     inkscape:current-layer="g998" />
   <!--
 UniversalBox - Box with various options for different styles and lids
 
@@ -408,10 +386,6 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
              d="m 164.12464,210.21659 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6.000001 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0 h -5.64 c -0.18,0 0,0.18 0,0 v -2.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -6 c -0.099,0 -0.18,0.081 -0.18,0.18 v 2.82 c 0,0.18 0.18,0 0,0"
              style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none"
              id="path5007" />
-          <path
-             style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none"
-             d="m 94.94464,108.61552 c 0,101.67826 0,101.67826 0,101.67826"
-             id="path6557" />
           <rect
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
              id="rect1795"
@@ -601,14 +575,6 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
            sodipodi:end="6.2599548"
            sodipodi:arc-type="slice"
            d="m -317.50925,183.06047 a 1.3530198,1.3530188 0 0 1 -1.34517,1.353 1.3530198,1.3530188 0 0 1 -1.36078,-1.33728 1.3530198,1.3530188 0 0 1 1.32935,-1.36853 1.3530198,1.3530188 0 0 1 1.37623,1.32138 l -1.35265,0.0314 z" />
-        <text
-           xml:space="preserve"
-           transform="scale(0.26458333)"
-           id="text4118"
-           style="white-space:pre;shape-inside:url(#rect4120);display:inline;fill:none;stroke:#000000;stroke-width:0.0755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
-             x="355.31836"
-             y="1109.53"
-             id="tspan6638">Screen</tspan></text>
       </g>
     </g>
   </g>
@@ -675,7 +641,7 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
          style="white-space:pre;shape-inside:url(#rect4019);display:inline;fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="241.13477"
            y="1635.7702"
-           id="tspan6640">Battery</tspan></text>
+           id="tspan2999">Battery</tspan></text>
       <text
          xml:space="preserve"
          transform="scale(0.26458333)"
@@ -683,31 +649,31 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
          style="white-space:pre;shape-inside:url(#rect4025);display:inline;fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="548.22656"
            y="1773.3601"
-           id="tspan6642">Switch</tspan></text>
+           id="tspan3001">Switch</tspan></text>
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.0279184;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
+         style="fill:none;stroke:#000000;stroke-width:0.0379612;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
          id="path4226"
          sodipodi:type="arc"
-         sodipodi:cx="126.44884"
-         sodipodi:cy="445.16858"
-         sodipodi:rx="6.767446"
-         sodipodi:ry="6.7674475"
+         sodipodi:cx="128.88826"
+         sodipodi:cy="442.72916"
+         sodipodi:rx="9.2018404"
+         sodipodi:ry="9.2018423"
          sodipodi:start="0"
          sodipodi:end="6.2599548"
          sodipodi:arc-type="slice"
-         d="m 133.21628,445.16858 a 6.767446,6.7674475 0 0 1 -6.72814,6.76733 6.767446,6.7674475 0 0 1 -6.80629,-6.68873 6.767446,6.7674475 0 0 1 6.64908,-6.84502 6.767446,6.7674475 0 0 1 6.88353,6.60922 l -6.76562,0.1572 z" />
+         d="m 138.0901,442.72916 a 9.2018404,9.2018423 0 0 1 -9.1484,9.20168 9.2018404,9.2018423 0 0 1 -9.25466,-9.0948 9.2018404,9.2018423 0 0 1 9.04091,-9.30733 9.2018404,9.2018423 0 0 1 9.35967,8.9867 l -9.19936,0.21375 z" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.0290772;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
+         style="fill:none;stroke:#000000;stroke-width:0.0371887;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
          id="path4228"
          sodipodi:type="arc"
-         sodipodi:cx="126.54266"
-         sodipodi:cy="463.18271"
-         sodipodi:rx="7.0483432"
-         sodipodi:ry="7.048336"
+         sodipodi:cx="128.51297"
+         sodipodi:cy="465.15302"
+         sodipodi:rx="9.0145874"
+         sodipodi:ry="9.0145779"
          sodipodi:start="0"
          sodipodi:end="6.2599548"
          sodipodi:arc-type="slice"
-         d="m 133.59101,463.18271 a 7.0483432,7.048336 0 0 1 -7.00741,7.04822 7.0483432,7.048336 0 0 1 -7.0888,-6.96635 7.0483432,7.048336 0 0 1 6.92507,-7.12914 7.0483432,7.048336 0 0 1 7.16923,6.88355 l -7.04644,0.16372 z" />
+         d="m 137.52756,465.15302 a 9.0145874,9.0145779 0 0 1 -8.96224,9.01442 9.0145874,9.0145779 0 0 1 -9.06633,-8.90972 9.0145874,9.0145779 0 0 1 8.85693,-9.11791 9.0145874,9.0145779 0 0 1 9.16921,8.80381 l -9.01216,0.2094 z" />
     </g>
     <g
        id="g1941"
@@ -715,15 +681,10 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
       <g
          id="g1922">
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;paint-order:stroke fill markers;stroke-dasharray:none"
-           d="m 228.65357,329.13792 c 5.85353,-46.57456 -9.95992,-42.46763 -17.69191,-39.1036 -3.03069,1.31859 -2.35807,-1.44741 -2.35807,-1.44741 l 7.3061,-7.37344 -2.29433,-2.49842 -7.16578,7.75475 c -0.19393,-0.21808 -2.8124,1.42642 -1.14031,-2.85528 2.14753,-5.49917 8.84246,-19.06908 25.44465,-14.95705 4.85095,1.20148 11.35495,61.70225 11.35495,61.70225 z"
-           id="path1813"
-           sodipodi:nodetypes="csccccsscc" />
-        <path
            style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
-           d="M 355.12259,385.01074 V 485.58993"
-           id="path1911"
-           transform="translate(-2.5064584,0.41774306)" />
+           d="m 228.65357,329.13792 c 3.62737,-28.86174 0.32792,-40.25306 -6.02481,-42.24533 -3.89876,-1.22268 -11.10416,4.36144 -11.10416,4.36144 l -6.21533,-7.63951 c 0,0 8.84246,-19.06908 25.44465,-14.95705 4.85095,1.20148 11.35495,61.70225 11.35495,61.70225 z"
+           id="path1813"
+           sodipodi:nodetypes="csccscc" />
         <g
            id="p-5-6"
            style="fill:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -751,7 +712,7 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
            style="white-space:pre;shape-inside:url(#rect4114);display:inline;fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
              x="1074.4688"
              y="1547.8269"
-             id="tspan6644">Servo</tspan></text>
+             id="tspan3003">Servo</tspan></text>
       </g>
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
