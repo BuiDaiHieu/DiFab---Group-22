@@ -82,9 +82,23 @@ void loop() {
   
   distance = getDistance();
   if (distance <= 10) {
-    if (sensorMove == 0) {
-      simpleDoorOpen();
+    if (sensorMove > 2){
+    sensorMove = 0;
     }
+
+    if (sensorMove == 0) {
+    simpleDoorOpen();
+    }
+
+    if (sensorMove == 1) {
+    slowDoorOpen();  
+    }
+
+    if (sensorMove == 2) {
+    superFastOpen();
+    }
+
+    sensorMove += 1;
   }
   
 }
@@ -588,7 +602,41 @@ void simpleDoorOpen(){
   //hiding door
   for(pos = 130; pos>=90; pos-=3)     
   {                                
-    doorServo.write(pos);              
+    doorServo.write(pos);     
+    displayTemp();         
     delay(15);                      
   } 
+}
+
+void slowDoorOpen(){
+  //Moving door
+  for(pos = 90; pos <130; pos += 1)
+  {
+    doorServo.write(pos);
+    displayTemp();
+    delay(40);
+  }
+
+  //Hiding door
+  for(pos = 130; pos>=90; pos-=1)
+  {
+    doorServo.write(pos);
+    displayTemp();
+    delay(40);
+  }
+}
+
+void superFastOpen(){
+  //Moving door 
+  for(pos = 90; pos <130; pos +=8)
+  {
+    doorServo.write(pos);
+    displayTemp();
+  }
+  //Hiding door
+  for(pos = 130; pos>=90; pos-=8)
+  {
+    doorServo.write(pos);
+    displayTemp();
+  }
 }
