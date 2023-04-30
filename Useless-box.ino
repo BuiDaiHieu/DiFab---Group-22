@@ -30,9 +30,10 @@ void setup() {
   pinMode(echoPin, INPUT);
   fingerServo.attach(7);
   doorServo.attach(8);
-  doorServo.write(0);
-  fingerServo.write(0);
+  doorServo.write(90);
+  fingerServo.write(180);
   dht.begin();
+  Serial.begin(9600);
 }
 
 void loop() {
@@ -117,14 +118,14 @@ void loop() {
   }
   
   //Moving hand
-  for(pos = 0; pos < 129; pos += 4)  
+  for(pos = 180; pos > 180-129; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }  
   
   //hiding hand
-  for(pos = 129; pos>=0; pos-=4)      
+  for(pos = 180-129; pos<=180; pos+=4)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
@@ -151,20 +152,20 @@ void loop() {
   }
   delay(800); 
   //Moving hand
-  for(pos = 0; pos < 100; pos += 4)  
+  for(pos = 180; pos > 180- 100; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }
   delay(1000); 
-  for(pos = 100; pos < 129; pos += 4)  
+  for(pos = 180-100; pos > 180-129; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }    
   
   //hiding hand
-  for(pos = 129; pos>=0; pos-=5)      
+  for(pos = 180-129; pos<=180; pos+=5)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
@@ -241,14 +242,14 @@ void loop() {
   }
   
   //Moving hand
-  for(pos = 0; pos < 129; pos += 3)  
+  for(pos = 180; pos > 180-129; pos -= 3)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }  
   
   //hiding hand
-  for(pos = 129; pos>=0; pos-=3)      
+  for(pos = 180-129; pos<=180; pos+=3)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
@@ -278,14 +279,14 @@ void slow()
   }
   
   //Moving hand
-  for(pos = 0; pos < 129; pos += 1)  
+  for(pos = 180; pos > 180-129; pos -= 1)  
   {                                   
     fingerServo.write(pos);               
     delay(30);                       
   }  
   
   //hiding hand
-  for(pos = 129; pos>=0; pos-=1)      
+  for(pos = 180-129; pos<=180; pos+=1)      
   {                                
     fingerServo.write(pos);               
     delay(30);                        
@@ -322,7 +323,7 @@ void serious() {
   }
     
   //Moving hand
-  for(pos = 0; pos < 70; pos += 1)  
+  for(pos = 180; pos > 180-70; pos -= 1)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
@@ -360,18 +361,18 @@ void serious() {
     delay(15); 
   } 
     
-  fingerServo.write(40);
+  fingerServo.write(180-40);
   delay(1000);
     
   //Moving hand
-  for(pos = 40; pos < 129; pos += 4)  
+  for(pos = 180-40; pos > 180-129; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   } 
   
   //hiding hand
-  for(pos = 129; pos>=0; pos-=4)      
+  for(pos = 180-129; pos<=180; pos+=4)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
@@ -399,7 +400,7 @@ void trollClose(){
   }
   
   //Moving hand
-  for(pos = 0; pos < 127; pos += 4)  
+  for(pos = 180; pos > 180-127; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
@@ -434,7 +435,7 @@ void trollClose(){
   }
   delay(500);
   //hiding hand
-  for(pos = 127; pos>=0; pos-=4)      
+  for(pos = 180-127; pos<=180; pos+=4)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
@@ -462,20 +463,20 @@ void matrix()
   }
   
   //Moving hand
-  for(pos = 0; pos < 80; pos += 4)  
+  for(pos = 180; pos > 180-80; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }
   
-  for(pos = 80; pos < 129; pos += 1)  
+  for(pos = 180-80; pos > 180-129; pos -= 1)  
   {                                   
     fingerServo.write(pos);               
     delay(30);                       
   }  
   delay(300);
   
-  for(pos = 129; pos>=0; pos-=4)      
+  for(pos = 180-129; pos<=180; pos+=4)      
   {                                
     fingerServo.write(pos);               
     delay(10);                        
@@ -503,54 +504,55 @@ void sneak()
   delay(2000);
   
   //Moving hand
-  for(pos = 0; pos < 40; pos += 1)  
+  for(pos = 180; pos > 180-40; pos -= 1)  
   {                                   
     fingerServo.write(pos);               
     delay(30);                       
   }  
       
   delay(500);
-  
+  //Moving door
   for(pos = 130; pos < 155; pos += 4)   
-  {                                   
+  {              
+    displayTemp();                     
     doorServo.write(pos);              
     delay(15);                       
   }
   delay(100);
   
-  for(pos = 40; pos < 90; pos += 4)  
+  for(pos = 180-40; pos > 180-90; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }  
   delay(500);
   //hiding hand
-  for(pos = 90; pos>=70; pos-=4)      
+  for(pos = 180-90; pos<=180-70; pos+=4)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
   }
   delay(100);
-  for(pos = 70; pos < 90; pos += 4)  
+  for(pos = 180-70; pos > 180-90; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }
   delay(100);
-  for(pos = 90; pos>=70; pos-=4)      
+  for(pos = 180-90; pos<=180-70; pos+=4)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
   }
   delay(100);
       
-  for(pos = 70; pos < 129; pos += 4)  
+  for(pos = 180-70; pos > 180-129; pos -= 4)  
   {                                   
     fingerServo.write(pos);               
     delay(15);                       
   }
   
-  for(pos = 129; pos>=0; pos-=4)      
+  for(pos = 180-129; pos<=180; pos+=4)      
   {                                
     fingerServo.write(pos);               
     delay(15);                        
@@ -567,7 +569,7 @@ void sneak()
 void displayTemp(){
   float t = dht.readTemperature();
   float h = dht.readHumidity();
-  if (doorServo.read() > 30){
+  if (doorServo.read() > 120){
     lcd.clear();
     lcd.print(t);
     lcd.print(" Celsius");
