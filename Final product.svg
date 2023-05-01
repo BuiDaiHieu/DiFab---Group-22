@@ -230,15 +230,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.41"
-     inkscape:cx="293.61702"
-     inkscape:cy="272.69504"
+     inkscape:zoom="1.4088798"
+     inkscape:cx="1155.5279"
+     inkscape:cy="1398.6289"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g998" />
+     inkscape:current-layer="g1922" />
   <!--
 UniversalBox - Box with various options for different styles and lids
 
@@ -641,7 +641,7 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
          style="white-space:pre;shape-inside:url(#rect4019);display:inline;fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="241.13477"
            y="1635.7702"
-           id="tspan2999">Battery</tspan></text>
+           id="tspan1203">Battery</tspan></text>
       <text
          xml:space="preserve"
          transform="scale(0.26458333)"
@@ -649,7 +649,7 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
          style="white-space:pre;shape-inside:url(#rect4025);display:inline;fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="548.22656"
            y="1773.3601"
-           id="tspan3001">Switch</tspan></text>
+           id="tspan1205">Switch</tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.0379612;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
          id="path4226"
@@ -688,31 +688,55 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
         <g
            id="p-5-6"
            style="fill:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           transform="matrix(-1,0,0,1,814.96782,193.44427)">
+           transform="matrix(-1,0,0,1,814.96782,193.25647)">
           <path
-             d="m 362.35169,292.31156 h 200.04976 c 0,0 0.13024,-0.0312 0.13024,-0.18 v -10.82 c 0,-0.18 -0.18,0 0,0 h 2.82 c 0.099,0 0.18,-0.081 0.18,-0.18 v -6 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -2.82 c -0.18,0 0,0.18 0,0 -0.75728,-0.84514 0,-65.64 0,-65.64 0,-0.18 -0.18,0 0,0 h 2.82 c 0.099,0 0.18,-0.081 0.18,-0.18 v -6 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -2.82 c -0.18,0 0,0.18 0,0 v -10.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -200 c -0.099,0 -0.18,0.081 -0.18,0.18 v 10.82 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 10.82 c 0,0.12392 0.1743,0.18622 0.18,0.18 z"
+             d="m 362.35169,292.31156 h 200.04976 c 0,0 0.13024,-0.0312 0.13024,-0.18 v -10.82 c 0,-0.18 -0.18,0 0,0 h 2.82 c 0.099,0 0.18,-0.081 0.18,-0.18 v -6 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -2.82 c -0.18,0 0,0.18 0,0 -0.14423,-0.16097 -0.23353,0.8108 -0.28357,-3.10036 -0.0172,-1.34518 -27.26034,3.73498 -27.26891,2.08761 -0.0489,-9.39831 0.008,-46.32625 0.10101,-57.6625 0.0312,-3.7946 27.11981,0.91898 27.14921,-2.0878 0.0576,-5.89405 0.3023,-4.87695 0.3023,-4.87695 0,-0.18 -0.18,0 0,0 h 2.82 c 0.099,0 0.18,-0.081 0.18,-0.18 v -6 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -2.82 c -0.18,0 0,0.18 0,0 v -10.82 c 0,-0.099 -0.081,-0.18 -0.18,-0.18 h -17.41874 v 14.91378 h -48.669 V 191.95156 H 362.35173 c -0.099,0 -0.18,0.081 -0.18,0.18 v 10.82 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 5.64 c 0,0.18 0.18,0 0,0 h -2.82 c -0.099,0 -0.18,0.081 -0.18,0.18 v 6 c 0,0.099 0.081,0.18 0.18,0.18 h 2.82 c 0.18,0 0,-0.18 0,0 v 10.82 c 0,0.12392 0.1743,0.18622 0.18,0.18 z"
              stroke="#000000"
              stroke-width="0.36"
              id="path23-1"
-             sodipodi:nodetypes="ccssssssssccssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssc"
+             sodipodi:nodetypes="ccsssssssscsssscsssssssssccccssssssssssssssssssssssssssssssssssssssssssssssssssssssssssscc"
              style="stroke-width:0.02;stroke-dasharray:none" />
         </g>
         <rect
-           style="fill:none;stroke:#000000;stroke-width:0.0201155;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
+           style="fill:none;stroke:#000000;stroke-width:0.0205075;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
            id="rect1059"
-           width="22.389885"
-           height="11.689884"
-           x="341.4212"
-           y="406.37485"
-           ry="0.00022160716" />
+           width="22.689493"
+           height="11.989492"
+           x="341.42139"
+           y="406.18723"
+           ry="0.00022728689" />
         <text
            xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,57.795508,2.251773)"
+           transform="matrix(0.26458333,0,0,0.26458333,57.795508,2.063976)"
            id="text4112"
            style="white-space:pre;shape-inside:url(#rect4114);display:inline;fill:none;stroke:#000000;stroke-width:0.755906;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
              x="1074.4688"
              y="1547.8269"
-             id="tspan3003">Servo</tspan></text>
+             id="tspan1207">Servo</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.0246644;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           id="path995"
+           sodipodi:type="arc"
+           sodipodi:cx="337.99579"
+           sodipodi:cy="412.18198"
+           sodipodi:rx="2.4876661"
+           sodipodi:ry="2.487664"
+           sodipodi:start="0"
+           sodipodi:end="6.2599548"
+           sodipodi:arc-type="slice"
+           d="m 340.48345,412.18198 a 2.4876661,2.487664 0 0 1 -2.47321,2.48762 2.4876661,2.487664 0 0 1 -2.50195,-2.45873 2.4876661,2.487664 0 0 1 2.44416,-2.51618 2.4876661,2.487664 0 0 1 2.53033,2.4295 l -2.48699,0.0578 z" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.0246644;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           id="path999"
+           sodipodi:type="arc"
+           sodipodi:cx="367.62958"
+           sodipodi:cy="412.18198"
+           sodipodi:rx="2.4876661"
+           sodipodi:ry="2.487664"
+           sodipodi:start="0"
+           sodipodi:end="6.2599548"
+           sodipodi:arc-type="slice"
+           d="m 370.11724,412.18198 a 2.4876661,2.487664 0 0 1 -2.47322,2.48762 2.4876661,2.487664 0 0 1 -2.50194,-2.45873 2.4876661,2.487664 0 0 1 2.44416,-2.51618 2.4876661,2.487664 0 0 1 2.53033,2.4295 l -2.48699,0.0578 z" />
       </g>
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.02;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers"
@@ -720,7 +744,7 @@ SettingsUrl short: http://www.festi.info/boxes.py/UniversalBox?top_edge=i&amp;bo
          width="143.73816"
          height="35.653091"
          x="284.09869"
-         y="434.59219"
+         y="434.40439"
          ry="0.0007310526" />
     </g>
   </g>
